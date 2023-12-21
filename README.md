@@ -1,3 +1,3 @@
--> ONLINE DICE GAME ( RELOAD THE PAGE TO GENERATE RANDOM NUMBERS )
+-> Personal Portfolio Website
 
  LIVE DEMO:https://surajrampur.github.io/Suraj_portfolio/
